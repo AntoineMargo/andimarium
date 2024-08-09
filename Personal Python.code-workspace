@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/antoi/Desktop/Python/Personal_Python/Andimarium_Arena"
+		}
+	],
+	"settings": {
+
+		"java.configuration.runtimes": [
+			{
+			  "name":"JavaSE-1.8",
+			  "path":"C:\\Program Files\\Java\\jre1.8.0_333",
+			  "default":true
+			}
+		]
+	}
+	
+}
+
