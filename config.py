@@ -8,6 +8,19 @@ fullscreen = False
 debug = True
 
 
+
+# maps = [[-4, None, None, None, None],
+#         [-3, None, None, None, None],
+#         [-2, None, None, None, None],
+#         [-1, None, None, None, None],
+#         [0, r"assets/maps/map_6_0.png", None, None, None],
+#         [1, None, None, None, None],
+#         [2, None, None, None, None],
+#         [3, None, None, None, None],
+#         [4, None, None, None, None]]
+
+
+
 maps = [[-4, None, None, None, None],
         [-3, None, None, None, None],
         [-2, None, None, None, None],

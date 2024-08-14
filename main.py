@@ -1,24 +1,16 @@
 
-import sys, pygame, pygame_widgets, time
+import pygame, pygame_widgets
 from pygame_widgets.button import Button
-import numpy as np
 import os
-
-# sys.path.append('/Andimarium_Arena')
-
-# get the current working directory
-current_working_directory = os.getcwd()
-
-# print output to the console
-print(f"/ / /")
-print(f"/ / /")
-print(f"/ / /")
-print(current_working_directory)
 
 from interface import *
 from archetypes import *
 
+current_working_directory = os.getcwd()
+
 if debug:
+    print()
+    print(current_working_directory)
     print()
     print(f"Program by Antoine Margoloff under CC BY-NC 4.0 License")
     print(f"Character sprites modified from tools.2minutetabletop.com under CC BY-NC 4.0 License")

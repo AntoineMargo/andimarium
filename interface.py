@@ -1,5 +1,4 @@
 from random import randint
-import time
 
 from game_graphics import *
 from computer_ai import *

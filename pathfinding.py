@@ -1,8 +1,6 @@
 from __future__ import print_function
-from warnings import warn
-import heapq, math, time, itertools
+import heapq, math, itertools
 from collections import deque
-import numpy as np
 import pyastar2d
 
 from config import *

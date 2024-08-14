@@ -1,4 +1,3 @@
-from random import randint
 
 from game_graphics import *
 from logic_graphics_merge import *
