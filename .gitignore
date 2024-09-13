@@ -1,2 +1,10 @@
+.vscode/
 __pycache__/
+build/
+dist/
+src/
+test/
 Personal Python.code-workspace
+Andimarium.spec
+Andimarium_Arena.spec
+launcher.py

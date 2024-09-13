@@ -2,6 +2,7 @@
 import pygame, pygame_widgets
 from pygame_widgets.button import Button
 import os
+from sys import exit
 
 from interface import *
 from archetypes import *
@@ -600,4 +601,4 @@ while running:
     clock.tick(60)
 
 pygame.quit()
-
+exit()
